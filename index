@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style type="text/css">
+			@import url("./css/index.css");
+		</style>
+		<meta charset="utf-8">
+		    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		    <meta name="viewport" content="width=device-width, initial-scale=1">
+		    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+		    <title>Bootstrap 101 Template</title>
+		
+		    <!-- Bootstrap -->
+		    <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+		
+		    <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+		    <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+		    <!--[if lt IE 9]>
+		      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+		      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+		    <![endif]-->
+		<title>长安大学</title>
+	</head>
+	<body>
+		<div class="header">
+			<div class="head">
+				
+			
+			<div class="logo1">
+				<div class="logo2">
+	  				<a href="index.html">
+						<img src="img/logo.png" >
+					</a>
+				</div>
+			</div>
+			<div class="dh">
+				
+			<div class="fdh">
+				
+			
+			<div class="sf1">
+				<div class="sf2">
+					<ul class="sfmenu">
+						<li class="sfmenu1 sfi1"><a href="index.html" class="sfmenu-link">学生</a></li>
+						<li class="sfmenu1 sfi2"><a href="index.html" class="sfmenu-link">教职工</a></li>
+						<li class="sfmenu1 sfi3"><a href="index.html" class="sfmenu-link">校友</a></li>
+						<li class="sfmenu1 sfi4"><a href="index.html" class="sfmenu-link">访客</a></li>
+					</ul>
+				</div>
+				
+			</div>
+			<div class="dh1">
+				<div class="dh2">
+					<ul class="menu">
+						<li class="menu1 i1"><a class="menu-link" href="index.html">校内邮箱</a></li>
+						<li class="menu1 i2"><a class="menu-link" href="index.html">校园门户</a></li>
+						<li class="menu1 i3"><a class="menu-link" href="index.html">快速通道</a></li>
+						<li class="menu1 i4"><a class="menu-link" href="index.html">ENGLISH</a></li>
+					</ul>
+				</div>
+			</div>
+			</div>
+			</br>
+			<div class="zdh">
+				
+						<ul class="zmenu">
+							<li class="menu2 i1"><a class="zmenu-link" href="index.html">学校概况</a></li>
+							<li class="menu2 i2"><a class="zmenu-link" href="index.html">机构设置</a></li>
+							<li class="menu2 i3"><a class="zmenu-link" href="index.html">师资队伍</a></li>
+							<li class="menu2 i4"><a class="zmenu-link" href="index.html">教育教学</a></li>
+							<li class="menu2 i5"><a class="zmenu-link" href="index.html">科学研究</a></li>
+							<li class="menu2 i6"><a class="zmenu-link" href="index.html">招生就业</a></li>
+							<li class="menu2 i7"><a class="zmenu-link" href="index.html">公共服务</a></li>
+							<li class="menu2 i8"><a class="zmenu-link" href="index.html">图书馆</a></li>
+							<li class="menu2 i9"><a class="zmenu-link" href="index.html">校友会</a></li>
+						</ul>
+					
+				
+			</div>
+			</div>
+			</div>
+		</div>
+	    <div class="gdimg">
+			<img src="./img/gdimg.jpg" >
+		</div>
+	    <div class="center" style="background: url(img/centerBg1.png) no-repeat center 5px;">
+			<div class="container" style="width: 1260px;" >
+				<div class="row">
+					<div class="col-md-11">
+						<h3 class="post-tittle">
+						<a class="post" href="index.html">学校要闻</a>
+					    </h3>
+					</div>
+					<div class="col-md-1">
+						<a class="post-more" href="index.html">进入新闻网</a>
+					    
+					</div>
+					
+				</div>
+				<div class="row">
+					<div class="col-md-8">
+						
+							<div class="col-md-4">
+								<span class="img">
+									<img src="img/post1.jpg" width="235" height="144">
+								</span>
+								
+								</br>
+								<span class="item-title">
+									<a href="index.html" title="生态环境部土壤生态环境司司长苏克敬一行来校调研">生态环境部土壤生态环境司司长苏克敬一行来校调研</a>
+								</span>
+							
+								<span class="item-summary"> 11月3日下午，生态环境部土壤生态环境司司长苏克敬、二级调研员任静...</span>
+								
+								<span class="item-time">2020-11-05</span>
+							</div>
+							<div class="col-md-4" >
+								<span class="img">
+									<img src="img/post2.jpg" width="235" height="144">
+								</span>
+								</br>
+								<span class="item-title">
+									<a href="index.html" title="我校加入“一带一路”建筑类大学国际联盟">我校加入“一带一路”建筑类大学国际联盟</a>
+								</span>
+								</br>
+								<span class="item-summary"> 10月30日，“一带一路”建筑类大学国际联盟2020年会议暨校长论坛由北...</span>
+								
+								<span class="item-time">2020-11-05</span>
+							</div>
+							<div class="col-md-4">
+								<span class="img">
+									<img src="img/post3.jpg" width="235" height="144">
+								</span>
+								</br>
+								<span class="item-title">
+									<a href="index.html" title="交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈">交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈</a>
+								</span>
+								
+								<span class="item-summary"> 10月30日，交通银行陕西省分行党委书记、行长程清洁一行来我校交流座...</span>
+								
+								<span class="item-time">2020-11-03</span>
+							</div>
+						
+						
+					</div>
+					<div class="col-md-4">
+						<ul>
+							<li class="news-item item-1 clearfix">
+								<span class="item-meta meta-title">
+							        <a href="index.html" target="_blank" title="生态环境部土壤生态环境司司长苏克敬一行来校调研">生态环境部土壤生态环境司司长苏克敬一行来校调研</a>
+								</span>
+								<span class="item-meta meta-time news-date-hide">20-11-05</span>
+							</li>
+							<li class="news-item item-2 clearfix"><span class="item-meta meta-title"><a href="#" target="_blank" title="交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈">交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈</a></span><span class="item-meta meta-time news-date-hide">20-11-03</span></li>
+							<li class="news-item item-3 clearfix"><span class="item-meta meta-title"><a href="#" target="_blank" title="交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈">交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈</a></span><span class="item-meta meta-time news-date-hide">20-11-03</span></li>
+							<li class="news-item item-4 clearfix"><span class="item-meta meta-title"><a href="#" target="_blank" title="交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈">交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈</a></span><span class="item-meta meta-time news-date-hide">20-11-03</span></li>
+							<li class="news-item item-5 clearfix"><span class="item-meta meta-title"><a href="#" target="_blank" title="交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈">交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈</a></span><span class="item-meta meta-time news-date-hide">20-11-03</span></li>
+							<li class="news-item item-6 clearfix"><span class="item-meta meta-title"><a href="#" target="_blank" title="交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈">交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈</a></span><span class="item-meta meta-time news-date-hide">20-11-03</span></li>
+							<li class="news-item item-7 clearfix"><span class="item-meta meta-title"><a href="#" target="_blank" title="交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈">交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈</a></span><span class="item-meta meta-time news-date-hide">20-11-03</span></li>
+							<li class="news-item item-8 clearfix"><span class="item-meta meta-title"><a href="#" target="_blank" title="交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈">交通银行陕西省分行党委书记、行长程清洁一行来校交流座谈</a></span><span class="item-meta meta-time news-date-hide">20-11-03</span></li>
+							
+						</ul>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<script src="https://code.jquery.com/jquery.js"></script>
+		<!-- 包括所有已编译的插件 -->
+		<script src="js/bootstrap.min.js"></script>
+	</body>
+</html>
